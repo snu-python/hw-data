@@ -1,0 +1,34 @@
+country	population	year	continent
+china	1,300,000,000	2000	asia
+india	1,040,000,000	2000	asia
+u.s.a	282,160,000	2000	north america
+indonesia	208,940,000	2000	asia
+brazil	174,500,000	2000	south america
+russia	146,300,000	2000	europe
+germany	82,210,000	2000	europe
+ethiopia	66,020,000	2000	africa
+south korea	47,010,000	2000	asia
+south africa	44,000,000	2000	africa
+canada	30,770,000	2000	north america
+china	1,300,000,000	2005	asia
+india	1,130,000,000	2005	asia
+u.s.a	295,520,000	2005	north america
+indonesia	224,480,000	2005	asia
+brazil	186,140,000	2005	south america
+russia	143,150,000	2005	europe
+germany	82,470,000	2005	europe
+ethiopia	76,170,000	2005	africa
+south korea	48,140,000	2005	asia
+south africa	47,200,000	2005	africa
+canada	32,310,000	2005	north america
+china	1,330,000,000	2010	asia
+india	1,170,000,000	2010	asia
+u.s.a	310,230,000	2010	north america
+indonesia	242,970,000	2010	asia
+brazil	201,100,000	2010	south america
+russia	139,390,000	2010	europe
+germany	82,280,000	2010	europe
+ethiopia	88,010,000	2010	africa
+south korea	48,640,000	2010	asia
+south africa	49,119,000	2010	africa
+canada	33,760,000	2010	north america
